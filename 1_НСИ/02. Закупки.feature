@@ -1,7 +1,7 @@
 ﻿#language: ru
 @tree
 
-@UH32_NSI
+@UH33_NSI
 
 
 Функционал: 02. Закупки (НСИ)

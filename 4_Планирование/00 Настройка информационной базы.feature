@@ -1,11 +1,11 @@
 ﻿#language: ru
 @tree
 
-@UH32_Planning
-@ERPUH32_Planning
-@UH32_Planning_OFD_CF_inflow
-@UH32_Planning_OFD_CF_outflow
-@UH32_Planning_OFD_PL
+@UH33_Planning
+@ERPUH33_Planning
+@UH33_Planning_OFD_CF_inflow
+@UH33_Planning_OFD_CF_outflow
+@UH33_Planning_OFD_PL
 
 Функционал: 00.00 Настройка информационной базы 
 

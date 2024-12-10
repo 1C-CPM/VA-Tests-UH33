@@ -1,8 +1,8 @@
 ﻿#language: ru
 @tree
 
-@UH32_Budget
-@ERPUH32_Budget
+@UH33_Budget
+@ERPUH33_Budget
 @Perform_Budget
 
 Функционал: 03. Выгрузука бланков и загрузка экземпляров отчетов из Excel

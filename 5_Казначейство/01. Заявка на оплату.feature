@@ -1,7 +1,7 @@
 ﻿#language: ru
 @tree
 
-@UH32_Treasury
+@UH33_Treasury
 
 Функционал: 04. Заявки на оплату [1]
 

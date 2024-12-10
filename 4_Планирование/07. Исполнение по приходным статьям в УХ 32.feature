@@ -1,7 +1,7 @@
 ﻿#language: ru
 @tree
 
-@UH32_Planning
+@UH33_Planning
 
 Функционал: 07. Исполнение по приходным статьям в УХ32
 

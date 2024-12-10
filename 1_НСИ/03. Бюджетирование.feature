@@ -1,8 +1,8 @@
 ﻿#language: ru
 @tree
 
-@UH32_NSI
-@ERPUH32_NSI
+@UH33_NSI
+@ERPUH33_NSI
 @Perform_Budget
 Функционал: 03. Первоначальные настройки и ввод НСИ - "Бюджетирование"
 

@@ -1,7 +1,7 @@
 ﻿#language: ru
 @tree
 
-@UH32_Planning_OFD_PL
+@UH33_Planning_OFD_PL
 
 Функционал: 08.03 Проверить создание ОФД по накладным - поступление
 

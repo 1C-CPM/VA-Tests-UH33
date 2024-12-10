@@ -1,7 +1,7 @@
 ﻿#language: ru
 @tree
 
-@UH32_Treasury
+@UH33_Treasury
 
 Функционал: 10. Заявки вместо платежных поручений
 

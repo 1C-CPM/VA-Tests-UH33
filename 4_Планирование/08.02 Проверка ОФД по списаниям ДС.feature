@@ -1,7 +1,7 @@
 ﻿#language: ru
 @tree
 
-@UH32_Planning_OFD_CF_outflow
+@UH33_Planning_OFD_CF_outflow
 
 Функционал: 08.02 Проверить создание ОФД по платежам - списание
 

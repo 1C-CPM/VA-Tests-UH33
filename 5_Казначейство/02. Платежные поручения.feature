@@ -1,7 +1,7 @@
 ﻿#language: ru
 @tree
 
-@UH32_Treasury
+@UH33_Treasury
 
 Функционал: 05. Оплата платежных поручений
 
