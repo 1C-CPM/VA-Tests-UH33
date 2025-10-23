@@ -2,7 +2,7 @@
 @tree
 
 @UH33_Planning
-@ERPUH33_Planning
+@ERPUH32_Planning
 
 Функционал: 03. Операционное планирование
 
